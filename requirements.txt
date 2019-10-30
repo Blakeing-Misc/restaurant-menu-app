@@ -27,5 +27,5 @@ ssh-import-id==5.5
 text-unidecode==1.2
 ufw==0.35
 urllib3==1.22
-Werkzeug==0.12.2
+Werkzeug==0.15.3
 Redis==2.10.6
